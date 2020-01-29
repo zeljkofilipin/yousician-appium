@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zeljkofilipin/yousician-appium/issues"
   },
-  "homepage": "https://github.com/zeljkofilipin/yousician-appium#readme"
+  "homepage": "https://github.com/zeljkofilipin/yousician-appium#readme",
+  "dependencies": {
+    "appium": "^1.16.0"
+  }
 }
