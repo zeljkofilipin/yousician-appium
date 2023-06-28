@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zeljkofilipin/yousician-appium#readme",
   "dependencies": {
-    "appium": "^1.16.0",
+    "appium": "^1.22.3",
     "wd": "^1.12.1"
   }
 }
